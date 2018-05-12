@@ -1,0 +1,33 @@
+_repo: Mr.-Punch-with-The-Children_33918
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PN'
+- !lcsh 'Children -- Humor'
+- !lcsh 'English wit and humor, Pictorial'
+title: Mr. Punch with the Children
+url: http://www.gutenberg.org/ebooks/33918
